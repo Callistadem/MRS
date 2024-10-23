@@ -1,7 +1,5 @@
 # MRS
-Malfunction report system for Gomibo's employees. 
-
-Completed for Gomibo as a part of the University of Groningen's (Netherlands) Software Engineering Course. 
+Malfunction report system for Gomibo's employees. Completed for Gomibo as a part of the University of Groningen's (Netherlands) Software Engineering Course. 
 
 Contributors: Callista Dembegiotis, Maria Mura, Alessio Giummarra, Leo Willmann, Demian Nieuwenhuis
 
