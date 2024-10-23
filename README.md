@@ -1,6 +1,10 @@
 # MRS
 Malfunction report system for Gomibo's employees. 
 
+Completed for Gomibo as a part of the University of Groningen's (Netherlands) Software Engineering Course. 
+
+Contributors: Callista Dembegiotis, Maria Mura, Alessio Giummarra, Leo Willmann, Demian Nieuwenhuis
+
 ## Prequisites
 For the backend, you need:
 - [php 8.1](https://www.php.net/manual/en/install.php)
