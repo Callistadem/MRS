@@ -1,5 +1,5 @@
 # MRS
-Malfunction report system for Gomibo's maintaiance team in Groningen.
+Malfunction report system for Gomibo's employees. 
 
 ## Prequisites
 For the backend, you need:
